@@ -1,7 +1,5 @@
 # README
 
-## Revision History
+Brand assets for Nature.tech and products
 
-### 04 Nov 2021
-- initial commit 
-- minor updates
+![nature tech contact sheet](/logo-contactsheet.png)
